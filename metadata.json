@@ -1,0 +1,5 @@
+{
+  "name": "Blockchain Supply Chain Visualizer",
+  "description": "A decentralized supply chain management application that leverages blockchain technology for enhanced transparency, traceability, and security. This application visualizes a typical manufacturing and distribution process, from raw material sourcing to final product delivery.",
+  "requestFramePermissions": []
+}
